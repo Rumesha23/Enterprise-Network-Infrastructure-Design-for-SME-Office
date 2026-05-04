@@ -1,6 +1,6 @@
 # Enterprise Network Infrastructure Design for SME Office
 
-## 📌 Overview
+## Overview
 
 This project presents a complete network infrastructure design for a small-to-medium enterprise (SME) office environment. The design focuses on scalability, security, and performance, supporting approximately 50 staff members, guest users, and network devices.
 
@@ -8,7 +8,7 @@ The solution addresses limitations in legacy networks by introducing structured 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Design a scalable and secure LAN and WLAN architecture
 * Implement VLAN-based segmentation for traffic isolation
@@ -18,7 +18,7 @@ The solution addresses limitations in legacy networks by introducing structured 
 
 ---
 
-## 🏗️ Network Architecture
+## Network Architecture
 
 The network follows a hierarchical design model:
 
@@ -31,7 +31,7 @@ The network follows a hierarchical design model:
 
 ---
 
-## 🌐 VLAN Design
+## VLAN Design
 
 | VLAN ID | Name            | Subnet          | Purpose                     |
 | ------- | --------------- | --------------- | --------------------------- |
@@ -43,7 +43,7 @@ The network follows a hierarchical design model:
 
 ---
 
-## 📡 Wireless Network Design
+## Wireless Network Design
 
 * 8 × Wi-Fi 6 Access Points (4 per floor)
 * Controller-based centralized management
@@ -57,7 +57,7 @@ The network follows a hierarchical design model:
 
 ---
 
-## 🔐 Security Implementation
+## Security Implementation
 
 * Next-Generation Firewall (NGFW) for traffic control and NAT
 * VLAN segmentation to isolate network segments
@@ -69,7 +69,7 @@ The network follows a hierarchical design model:
 
 ---
 
-## ⚙️ Key Features
+## Key Features
 
 * Inter-VLAN routing handled at the firewall
 * QoS support for voice and video traffic
@@ -79,7 +79,7 @@ The network follows a hierarchical design model:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Cisco Catalyst Switches (Layer 2/Layer 3)
 * Fortinet NGFW (conceptual design)
@@ -90,7 +90,7 @@ The network follows a hierarchical design model:
 
 ---
 
-## 📊 Project Structure
+## Project Structure
 
 ```
 network-infrastructure-design/
@@ -104,7 +104,7 @@ network-infrastructure-design/
 
 ---
 
-## 📈 Budget Summary
+## Budget Summary
 
 * **Total Estimated Cost:**
 
@@ -115,7 +115,7 @@ Includes core infrastructure, access layer, wireless deployment, and cabling.
 
 ---
 
-## 🚀 Key Learning Outcomes
+## Key Learning Outcomes
 
 * Designing scalable enterprise network architectures
 * Implementing VLAN-based segmentation
@@ -125,12 +125,12 @@ Includes core infrastructure, access layer, wireless deployment, and cabling.
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This project was originally developed as part of an academic assignment and has been refined for portfolio purposes. Certain implementation details may be generalized or omitted. The design reflects real world networking principles but is presented as a conceptual implementation.
 ---
 
-## 👤 Team
+## Team
 
 - **Sithira Chandrasiri**  
 - **Rumesha Nisadi**  
