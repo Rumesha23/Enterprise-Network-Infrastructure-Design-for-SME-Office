@@ -1,4 +1,4 @@
-! VLAN Creation
+ VLAN Creation
 vlan 10
  name STAFF
 vlan 20
