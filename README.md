@@ -95,11 +95,11 @@ The network follows a hierarchical design model:
 ```
 network-infrastructure-design/
 │
-├── docs/        # Design documentation
-├── diagrams/    # Network diagrams (topology, VLAN, WLAN)
-├── configs/     # Sample network configurations
-├── appendix/    # IP addressing, device tables
-└── assets/      # Floor plans and supporting images
+├── Docs/        # Design documentation
+├── Diagrams/    # Network diagrams (topology, VLAN, WLAN)
+├── Configs/     # Sample network configurations
+├── Appendix/    # IP addressing, device tables
+└── Assets/      # Floor plans and supporting images
 ```
 
 ---
